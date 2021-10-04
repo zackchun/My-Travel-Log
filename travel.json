@@ -1,0 +1,81 @@
+[
+ { 
+    "place":"Buenos Aires, Argenina",
+    "memo":"My hometown of Latin America, where my fantasy began and ended.",
+    "photo":"./0.jpg",
+    "color": "red",
+    "gmap":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d210146.68168877432!2d-58.573383207134555!3d-34.615743688997895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3b4ef90cbd%3A0xa0b3812e88e88e87!2sBuenos%20Aires%2C%20Argentina!5e0!3m2!1sen!2skr!4v1632753753301!5m2!1sen!2skr"
+  },
+  { 
+    "place":"El Chalten, Argentina",
+    "memo":"The best hiking course in my life, but at that time I didn't know this is the logo of PATAGONIA...",
+    "photo":"./1.jpg",
+    "color": "red",
+    "gmap":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d81505.65582200872!2d-72.36785953682568!3d-50.32828586468154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xbdbb0cc0138f62cb%3A0x30d4035d88e4dc69!2sEl%20Calafate%2C%20Santa%20Cruz%20Province%2C%20Argentina!5e0!3m2!1sen!2skr!4v1633274218785!5m2!1sen!2skr"
+  },
+  { 
+    "place":"Easter Island, Chile",
+    "memo":"The most lonely island in the world, also very similar to Korea's Jeju island in many ways where I come to live now...",
+    "photo":"./2.jpg",
+    "color": "red",
+    "gmap":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d227261.7638436456!2d-109.47890024393512!3d-27.125910456708656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9947f017a8d4ae2b%3A0xbbe5b3edc02a2db6!2sEaster%20Island!5e0!3m2!1sen!2skr!4v1633274319640!5m2!1sen!2skr"
+  },
+  {
+    "place":"Machu Pichu,Peru",
+    "memo":"Carpenters sang, I'm on the top of the world lookin' down on creation And the only explanation I can find~",
+    "photo":"./3.jpg",
+    "color": "yellow",
+    "gmap":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124130.91048587242!2d-72.0092895847323!3d-13.530009562330958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x916dd5d826598431%3A0x2aa996cc2318315d!2sCusco%2C%20Peru!5e0!3m2!1sen!2skr!4v1633259543640!5m2!1sen!2skr"
+  },
+  {
+    "place":"Copacabana,Bolivia",
+    "memo":"Better than Barry Manilow's song place, where you can see the world's biggest lake and the island of Sun in it.",
+    "photo":"./4.jpg",
+    "color": "yellow",
+    "gmap":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61310.268863978636!2d-69.13204973398712!3d-16.17452898677958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x915dcd7e020a5f2f%3A0x5ff56029fdb79a4a!2sCopacabana%2C%20Bolivia!5e0!3m2!1sen!2skr!4v1633274383094!5m2!1sen!2skr"
+  },
+  {
+    "place": "Uyuni Desert,Bolivia",
+    "memo": "Where the sky and the land meet together. The name of my photo is 'Running the sky' awarded  by Korean Air's travel photo contest :)",
+    "photo": "./5.jpg",
+    "color": "blue",
+    "gmap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59809.74800026768!2d-66.86232156750717!3d-20.46070554493811!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x93ffbad958d3f2bd%3A0x1455841e2c4e6653!2sUyuni%2C%20Bolivia!5e0!3m2!1sen!2skr!4v1633259643321!5m2!1sen!2skr"  
+  },
+  {
+    "place": "Atacama,Chile",
+    "memo": "You don't need to go to Mars, even though the name of here is Valley of the Moon.",
+    "photo": "./6.jpg",
+    "color": "blue",
+    "gmap":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29399.860666182183!2d-68.21617426917771!3d-22.914013240505962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96a84c7aa92abf3f%3A0x7af4614cacf997d1!2sSan%20Pedro%20de%20Atacama%2C%20Antofagasta%2C%20Chile!5e0!3m2!1sen!2skr!4v1633274430920!5m2!1sen!2skr"
+  },
+  {
+    "place": "Rio de Janeiro,Brazil",
+    "memo": "With resonating Gangnam Style everywhere, here in Carnival time is the most crazy place in the world undoubtedly",
+    "photo": "./7.jpg",
+    "color": "green",
+    "gmap":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d470397.8752586788!2d-43.72776328370811!3d-22.91398309995505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997efe4224b50b%3A0xf988253c846c59ee!2sRio%20de%20Janeiro%20-%20State%20of%20Rio%20de%20Janeiro%2C%20Brazil!5e0!3m2!1sen!2skr!4v1633259721507!5m2!1sen!2skr"
+  },
+  {
+    "place": "Mt.Roraima, Venezuela",
+    "memo": "With resonating Gangnam Style everywhere, here in Carnival time is the most crazy place in the world undoubtedly",
+    "photo": "./8.jpg",
+    "color": "green",
+    "gmap":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3973.8040101947104!2d-60.73849420783476!3d5.135237792231231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8dbf1a501fb5abc3%3A0xee34df0f3642c109!2sMt%20Roraima!5e0!3m2!1sen!2skr!4v1633274571095!5m2!1sen!2skr"
+  },
+  {
+    "place": "Havana,Cuba",
+    "memo": "The place all the clock has been stopped at 30 years ago, when Chico and Rita played together",
+    "photo": "./9.jpg",
+    "color": "green",
+    "gmap":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d469922.9825591522!2d-82.61319458696259!3d23.05043981585092!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88cd774cbdf600e1%3A0x4e294d7e1a770d60!2sHavana%2C%20Cuba!5e0!3m2!1sen!2skr!4v1633274630341!5m2!1sen!2skr"
+  },
+  {
+    "place": "Galapagos,Ecuador",
+    "memo": "You can never understand here before you travel here, and look under the sea by diving.",
+    "photo": "./10.jpg",
+    "color": "green",
+    "gmap":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255345.71774908097!2d-90.84941309317914!3d-0.261266369095348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9aab23acc78137a5%3A0x2a4992f090979738!2sSantiago%20Island!5e0!3m2!1sen!2skr!4v1633274677587!5m2!1sen!2skr"
+  }
+
+
+]

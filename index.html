@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jack's Travel log</title>
+    <link href="./style.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    <div id="container">
+        <div id="header">
+            <h1>Jack's Travel Log</h1>
+
+        </div>
+        <div id="map">
+            <h2>World Map</h2>
+            <a href="https://www.google.com/maps/d/u/0/edit?mid=1819dA8wV8csnm_VflwSKK5XUZLg&usp=sharing"
+                target="_blank"><img src="./Mytravel.jpg" width="800" height="275"></a>
+            <iframe id="mapData"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d210146.68168877432!2d-58.573383207134555!3d-34.615743688997895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3b4ef90cbd%3A0xa0b3812e88e88e87!2sBuenos%20Aires%2C%20Argentina!5e0!3m2!1sen!2skr!4v1632753753301!5m2!1sen!2skr"
+                width="800" height="275"></iframe>
+
+            <div id="list">
+                <h2><a href="https://www.google.com/maps/d/u/0/edit?mid=1819dA8wV8csnm_VflwSKK5XUZLg&usp=sharing"
+                        target="_blank">Travel History</a></h2>
+                <table>
+                    <tr>
+                        <th style="color:red">No.</th>
+                        <th>Date</th>
+                        <th>Place</th>
+                    </tr>
+                    <tr>
+                        <td> <button onclick="display(0)">1</button></td>
+                        <td>2012.10.6</td>
+                        <td>Buenos Aires</td>
+                    </tr>
+                    <tr>
+                        <td> <button onclick="display(1)">2</button></td>
+                        <td>2012.11.15</td>
+                        <td>El Chalten</td>
+                    </tr>
+                    <tr>
+                        <td> <button onclick="display(2)">3</button></td>
+                        <td>2012.12.25</td>
+                        <td>Easter Island</td>
+                    </tr>
+                    <tr>
+                        <td> <button onclick="display(3)">4</button></td>
+                        <td>2013.1.1</td>
+                        <td>Machu Pichu</td>
+                    </tr>
+                    <tr>
+                        <td> <button onclick="display(4)">5</button></td>
+                        <td>2013.1.7</td>
+                        <td>Copacabana</td>
+                    </tr>
+                    <tr>
+                        <td> <button onclick="display(5)">6</button></td>
+                        <td>2013.1.14</td>
+                        <td>Uyuni Desert</td>
+                    </tr>
+                    <tr>
+                        <td> <button onclick="display(6)">7</button></td>
+                        <td>2013.1.16</td>
+                        <td>Atacama</td>
+                    </tr>
+                    <tr>
+                        <td> <button onclick="display(7)">8</button></td>
+                        <td>2013.2.12</td>
+                        <td>Rio de janeiro</td>
+                    </tr>
+                    <tr>
+                        <td> <button onclick="display(8)">9</button></td>
+                        <td>2013.2.23</td>
+                        <td>Roraima</td>
+                    </tr>
+                    <tr>
+                        <td> <button onclick="display(9)">10</button></td>
+                        <td>2013.5.12</td>
+                        <td>Havana</td>
+                    </tr>
+                    <tr>
+                        <td> <button onclick="display(10)">11</button></td>
+                        <td>2014.7.28</td>
+                        <td>Galapagos</td>
+                    </tr>
+
+
+                </table>
+            </div>
+
+            <div id="photo">
+                <h2 id="placeData">Where's Jack? <br><strong style="color:red">Click No.!</strong></h2>
+                <img id="photoData" src="./jack1.jpg" width="250" onclick="window.open(this.src)">
+                <p>(*Click Photo for big image)</p>
+
+
+            </div>
+            <div id="memo">
+                <h2>Memo</h2>
+                <p id="memoData">Jack Says...</p>
+            </div>
+            <div id="footer">
+                <h2>Footer</h2>
+            </div>
+        </div>
+</body>
+<script src="main.js"></script>
+
+</html>

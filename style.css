@@ -1,0 +1,42 @@
+div {
+    border: 1px solid #ccc;
+}
+#container {
+    width: 800px;
+    padding:20px;
+    margin:0 auto;
+}
+#header {
+    padding: 5px;
+    margin-bottom: 20px;
+}
+#map {
+    width: 800px;
+    padding: auto;
+    margin-bottom: 20px;
+}
+#list {
+    width: 250px;
+    float: left;
+    margin-bottom: 20px;
+}
+#photo {
+    width: 250px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+#memo {
+    width: 250px;
+    float: right;
+    margin-bottom: 20px;
+}
+#footer {
+    clear:both;
+    padding: auto;
+}
+button:focus { 
+    background-color: red;
+  }
+  
