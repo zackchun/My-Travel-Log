@@ -2,37 +2,46 @@ div {
     border: 1px solid #ccc;
 }
 #container {
-    width: 800px;
+    width: 96%;
+    max-width: 980px;
     padding:20px;
-    margin:0 auto;
+    margin:auto;
 }
 #header {
+    border:0;
     padding: 5px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    text-align:center
+    margin:auto;
 }
 #map {
-    width: 800px;
+    position:relative
+    border:0;
+    width: 94%;
     padding: auto;
     margin-bottom: 20px;
+
 }
+
 #list {
     width: 250px;
     float: left;
     margin-bottom: 20px;
 }
 #photo {
-    width: 250px;
+    width: 40%;
     float: left;
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 20px;
 }
 #memo {
-    width: 250px;
-    float: right;
+    width: 250px;;
+    float:right;
     margin-bottom: 20px;
 }
 #footer {
+    border:0;
     clear:both;
     padding: auto;
 }
